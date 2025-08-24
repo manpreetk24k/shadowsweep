@@ -7,7 +7,7 @@ It was developed as part of an internship project at Indira Gandhi Delhi Technic
 The tool detects hidden apps, malware, and suspicious behavior by analyzing Android device logs.
 It also integrates OSINT (Open Source Intelligence) techniques such as WHOIS, IP lookups, and dark web scanning (via Tor), presented through an interactive Streamlit dashboard.
 
-🚀 Features
+##🚀 Features
 
 Log Analysis – Extracts and analyzes Android logs using ADB.
 
